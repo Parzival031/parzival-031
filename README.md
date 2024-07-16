@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Parzival031
 - I'm an intermediate at Python
-- I like to make games in Godot game engine
+- I make games with Godot
+- I also like pixel art
   
 
 
