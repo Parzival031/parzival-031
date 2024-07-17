@@ -3,7 +3,7 @@
 - I'm learning to mkae games with Godot and Pygame
 - I'm a Pixel Artist
   
-### Discord: parzival031
+Discord: parzival031
 
 <!---
 Parzival031/Parzival031 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
