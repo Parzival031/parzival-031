@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Parzival031
-- I'm an intermediate at Python
-- I'm learning to mkae games with Godot and Pygame
-- I'm a Pixel Artist
+- I am Parzival031, an intermediate at Python and learning to make games with Godot and Pygame and I also like pixel art
+- My fav games are: Meta Gear Solid Saga, Undertale, Hollow Knight
   
 Discord: parzival031
 
